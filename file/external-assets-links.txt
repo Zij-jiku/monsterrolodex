@@ -1,0 +1,90 @@
+
+013 React-Docs
+https://reactjs.org/docs/create-a-new-react-app.html
+
+013 Node-install
+https://nodejs.org/en/
+
+013 NVM
+https://github.com/nvm-sh/nvm
+
+013 React-CodeSandbox
+https://codesandbox.io/s/new
+
+015 Visual-Studio-Code
+https://code.visualstudio.com/
+
+015 NVM
+https://github.com/nvm-sh/nvm#installation-and-update
+
+015 NodeJS
+https://nodejs.org/en/
+
+015 Yarn
+https://yarnpkg.com/lang/en/docs/install/#mac-stable
+
+016 Visual-Studio-Code
+https://code.visualstudio.com/
+
+016 Gitbash
+https://gitforwindows.org/
+
+016 NodeJS
+https://nodejs.org/en/download/
+
+016 Yarn
+https://yarnpkg.com/en/docs/install#windows-stable
+
+020 Monsters-Rolodex
+https://zhangmyihua.github.io/monsters-rolodex/
+
+020 Create-React-App-Docs
+https://create-react-app.dev/docs/getting-started/
+
+026 Appendix-Section-Classes
+https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lecture/31105310#overview
+
+027 Appendix-Section-Classes
+https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lecture/31105310#overview
+
+031 Appendix-Section-Map
+https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lecture/14849144#overview
+
+035 JSON-Placeholder
+https://jsonplaceholder.typicode.com/users
+
+035 React-Component-Lifecycle-Methods
+https://reactjs.org/docs/react-component.html
+
+035 Appendix-Promises
+https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lecture/15037608#overview
+
+039 Appendix-Section-Filter
+https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lecture/14849146#overview
+
+039 Create-React-App
+https://reactjs.org/docs/create-a-new-react-app.html
+
+039 JSON-Placeholder
+https://jsonplaceholder.typicode.com/users
+
+049 Robohash
+https://robohash.org/1?set=set2
+
+060 Github-Repo-Final-Project
+https://github.com/ZhangMYihua/monsters-rolodex-v2
+
+062 React-Devtools-Chrome-Extension
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd/related?hl=en
+
+064 Unpkg-React
+https://unpkg.com/browse/react@18.0.0-rc.0/umd/react.development.js
+
+064 Unpkg-React-dom
+https://unpkg.com/react-dom@18.0.0-rc.0/umd/react-dom.development.js
+
+069 Github-HTTPS-vs-SSH
+https://help.github.com/en/articles/which-remote-url-should-i-use
+
+069 Adding-SSH-key-to-Github
+https://help.github.com/en/enterprise/2.15/user/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
